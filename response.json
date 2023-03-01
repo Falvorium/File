@@ -1,0 +1,17 @@
+{
+  "app": "com.venkatasudha.rajesh.jsonparsertest",
+  "code": 200,
+  "duration": "251ms",
+  "headers": {
+    "Content-Type": "application/json; charset\u003dutf-8",
+    "Transfer-Encoding": "chunked",
+    "Vary": "Origin, Accept-Encoding",
+    "Content-Encoding": "gzip"
+  },
+  "message": "OK",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "172.67.149.50",
+  "remotePort": 443,
+  "sessionId": "87ac853d-8f9e-4a21-9c47-de6f026e5f82",
+  "time": "2023-03-01 14:55:41"
+}
